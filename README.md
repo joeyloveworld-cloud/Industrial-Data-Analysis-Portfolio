@@ -1,4 +1,4 @@
-# Steel Plates Faults Classification (Optimized)
+# Steel Plates Faults Classification 
 
 ## Project Overview
 This project implements a robust machine learning pipeline for the **UCI Steel Plates Faults Dataset**. The objective is to correctly classify seven distinct types of surface defects in steel plates (e.g., Pastry, Z_Scratch, K_Scatch) using geometric and texture features.
