@@ -35,23 +35,3 @@ The optimized ensemble model achieves strong performance on the unseen test set:
 
 *   **Macro F1-Score**: ~0.80+
 *   **Balanced Accuracy**: ~0.82+
-
-> **Note**: The confusion matrix and ROC curves are automatically generated in the `outputs/` directory upon running the script.
-
-## How to Run
-
-1.  **Install Dependencies**:
-    ```bash
-    pip install numpy pandas matplotlib seaborn scikit-learn lightgbm joblib
-    ```
-
-2.  **Execute the Pipeline**:
-    ```bash
-    python main.py
-    ```
-
-3.  **View Outputs**:
-    Check the `outputs/` folder for:
-    *   `confusion_matrix.png`
-    *   `roc_curves.png`
-    *   `steel_fault_model.pkl` (Saved Model)
