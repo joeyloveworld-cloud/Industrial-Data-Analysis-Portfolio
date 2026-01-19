@@ -35,3 +35,5 @@ The optimized ensemble model achieves strong performance on the unseen test set:
 
 *   **Macro F1-Score**: ~0.80+
 *   **Balanced Accuracy**: ~0.82+
+*   ![Confusion Matrix](confusion_matrix.png)
+*   ![ROC Chart](roc.png)
